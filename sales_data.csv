@@ -1,0 +1,4 @@
+order_id,customer_name,product,quantity,price,order_date
+1001,John Doe,Laptop,1,1200,2025-03-10
+1002,Jane Smith,Smartphone,2,800,2025-03-11
+1003,Emily Johnson,Tablet,3,500,2025-03-12
